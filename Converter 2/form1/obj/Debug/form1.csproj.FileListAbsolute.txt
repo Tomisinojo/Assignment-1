@@ -1,0 +1,4 @@
+C:\Users\tomis\Documents\c#\form1\form1\obj\Debug\form1.csprojAssemblyReference.cache
+C:\Users\tomis\Documents\c#\form1\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\tomis\Documents\c#\form1\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\tomis\Documents\c#\form1\form1\obj\Debug\form1.csproj.CoreCompileInputs.cache
