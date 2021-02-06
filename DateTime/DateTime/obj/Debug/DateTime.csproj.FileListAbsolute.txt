@@ -1,0 +1,10 @@
+C:\Users\tomis\Documents\c#\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\tomis\Documents\c#\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\tomis\Documents\c#\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.Form1.resources
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.Properties.Resources.resources
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.csproj.GenerateResource.cache
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\tomis\Documents\c#\DateTime\DateTime\obj\Debug\DateTime.pdb
