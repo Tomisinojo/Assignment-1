@@ -1,0 +1,10 @@
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\bin\Debug\Pounds to Kg.exe.config
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\bin\Debug\Pounds to Kg.exe
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\bin\Debug\Pounds to Kg.pdb
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds to Kg.csprojAssemblyReference.cache
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds_to_Kg.Form1.resources
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds_to_Kg.Properties.Resources.resources
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds to Kg.csproj.GenerateResource.cache
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds to Kg.csproj.CoreCompileInputs.cache
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds to Kg.exe
+C:\Users\tomis\Documents\c#\Pounds to Kg\Pounds to Kg\obj\Debug\Pounds to Kg.pdb
