@@ -1,0 +1,10 @@
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\tomis\Documents\c#\BMI new\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
