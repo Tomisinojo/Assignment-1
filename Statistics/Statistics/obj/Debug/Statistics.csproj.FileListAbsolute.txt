@@ -1,0 +1,10 @@
+C:\Users\tomis\Documents\c#\Statistics\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\tomis\Documents\c#\Statistics\Statistics\bin\Debug\Statistics.exe
+C:\Users\tomis\Documents\c#\Statistics\Statistics\bin\Debug\Statistics.pdb
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.csprojAssemblyReference.cache
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.Form1.resources
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.Properties.Resources.resources
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.csproj.GenerateResource.cache
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.exe
+C:\Users\tomis\Documents\c#\Statistics\Statistics\obj\Debug\Statistics.pdb
