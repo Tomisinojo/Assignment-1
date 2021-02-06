@@ -1,0 +1,9 @@
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\obj\Debug\WordCounter.Form1.resources
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.cache
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\tomis\Documents\c#\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
